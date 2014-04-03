@@ -10,7 +10,7 @@ Parameters:
 
 * HTTP Server.
 * Path to the WebDAV folder.
-* Name of the tab-separated configuration file that defines the credentials of each user. The load test will be performed will all of these users in parallel.
+* Name of the tab-separated configuration file that defines the credentials of each user. The load test will be performed will all of these users in parallel. (tab-separated. commas and spaces won't work)
 * Pause between each request of a single user, in milliseconds.
 * Number of iterations to perform.
 
